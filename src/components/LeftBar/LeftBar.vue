@@ -1,0 +1,27 @@
+<template>
+  <div>
+    <mu-drawer :open="open" :docked="docked" @close="toggle()">
+      <mu-list @itemClick="docked ? '' : toggle()">
+        <mu-list-item title="Menu Item 1"/>
+        <mu-list-item title="Menu Item 2"/>
+        <mu-list-item title="Menu Item 3"/>
+        <mu-list-item v-if="docked" @click.native="open = false" title="Close"/>
+      </mu-list>
+    </mu-drawer>
+  </div>
+</template>
+
+<script>
+  export default {
+    data () {
+      return {
+        open: false,
+        docked: true
+      }
+    }
+  }
+</script>
+
+<style scoped>
+
+</style>

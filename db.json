@@ -1,0 +1,3408 @@
+{
+    "users": [
+        {
+            "userId": 1,
+            "account": "15079188378",
+            "pwd": "ycxalyn",
+            "img": "http://dummyimage.com/48x48/9d79f2",
+            "grade": 12,
+            "name": "家青入关儿图给属",
+            "signature": "所约验将制从联行。",
+            "friends_categories": [
+                {
+                    "categories_id": 1,
+                    "categories_title": "构解节没金话千",
+                    "friends": [
+                        {
+                            "friends_id": 1,
+                            "img": "http://dummyimage.com/48x48/79f279",
+                            "friends_name": "得土千只权其",
+                            "friends_dcr": "物没现得适和连圆目开段率金物义经七便。",
+                            "msg": "社口",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 2,
+                            "img": "http://dummyimage.com/48x48/f2799b",
+                            "friends_name": "时十准作写",
+                            "friends_dcr": "然八人长验单头行队党本这和省。",
+                            "msg": "原",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 3,
+                            "img": "http://dummyimage.com/48x48/79bff2",
+                            "friends_name": "便空养角开圆",
+                            "friends_dcr": "听目看山理米记些斗车省它。",
+                            "msg": "置人任",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 4,
+                            "img": "http://dummyimage.com/48x48/e2f279",
+                            "friends_name": "看报小治三",
+                            "friends_dcr": "许万程质听当数名传但提维。",
+                            "msg": "年",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 5,
+                            "img": "http://dummyimage.com/48x48/de79f2",
+                            "friends_name": "入构研现收该况者",
+                            "friends_dcr": "法矿风百派化回商。",
+                            "msg": "低眼应矿",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 6,
+                            "img": "http://dummyimage.com/48x48/79f2bb",
+                            "friends_name": "任构建统制克这",
+                            "friends_dcr": "造其但两支们问给号局定管调学据得的器面至。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 7,
+                            "img": "http://dummyimage.com/48x48/f29879",
+                            "friends_name": "林音受广也经与",
+                            "friends_dcr": "历精明水团党文进极白。",
+                            "msg": "两影",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 8,
+                            "img": "http://dummyimage.com/48x48/797df2",
+                            "friends_name": "马也阶实属",
+                            "friends_dcr": "些清天展连国更集到和求转边月意即根至话。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 9,
+                            "img": "http://dummyimage.com/48x48/a0f279",
+                            "friends_name": "可指细想半局",
+                            "friends_dcr": "准事必技布没里花。",
+                            "msg": "间",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 10,
+                            "img": "http://dummyimage.com/48x48/f279c4",
+                            "friends_name": "酸论复头现石",
+                            "friends_dcr": "流志决资作必花社水只示存整无切先取。",
+                            "msg": "老月间",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 11,
+                            "img": "http://dummyimage.com/48x48/79e7f2",
+                            "friends_name": "放各象去究",
+                            "friends_dcr": "眼如证入复政规生决据影太。",
+                            "msg": "次",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 12,
+                            "img": "http://dummyimage.com/48x48/f2d979",
+                            "friends_name": "导已现月工看类",
+                            "friends_dcr": "数标要总行五细马实。",
+                            "msg": "书管族选",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 13,
+                            "img": "http://dummyimage.com/48x48/b679f2",
+                            "friends_name": "备育斯决于除等",
+                            "friends_dcr": "意看音起马入领率圆林火。",
+                            "msg": "至江斗世",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 14,
+                            "img": "http://dummyimage.com/48x48/79f292",
+                            "friends_name": "复可反相精教头求",
+                            "friends_dcr": "特在属统式儿格听万形无她。",
+                            "msg": "音",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 15,
+                            "img": "http://dummyimage.com/48x48/f27982",
+                            "friends_name": "济政始周期以解去",
+                            "friends_dcr": "四须看流便取。",
+                            "msg": "间没温题",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 16,
+                            "img": "http://dummyimage.com/48x48/79a6f2",
+                            "friends_name": "声百技增",
+                            "friends_dcr": "中化体为定明记拉。",
+                            "msg": "难造战",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 2,
+                    "categories_title": "两根增深力拉道规",
+                    "friends": [
+                        {
+                            "friends_id": 17,
+                            "img": "http://dummyimage.com/48x48/c9f279",
+                            "friends_name": "打严商低动",
+                            "friends_dcr": "始具调或深位却积治段比每便同但需。",
+                            "msg": "济身府根",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 18,
+                            "img": "http://dummyimage.com/48x48/f279ec",
+                            "friends_name": "向们节信与听",
+                            "friends_dcr": "石义者把增名圆元交就金基无住开影如公文。",
+                            "msg": "个你",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 19,
+                            "img": "http://dummyimage.com/48x48/79f2d4",
+                            "friends_name": "位劳该高所件",
+                            "friends_dcr": "使者布来能上。",
+                            "msg": "解处例平",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 20,
+                            "img": "http://dummyimage.com/48x48/f2b179",
+                            "friends_name": "级广国象该",
+                            "friends_dcr": "交电人火现极二广民数市水。",
+                            "msg": "省着成革儿",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 21,
+                            "img": "http://dummyimage.com/48x48/8d79f2",
+                            "friends_name": "必所型准飞",
+                            "friends_dcr": "物速相管温区与照从置型林接。",
+                            "msg": "以消第",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 22,
+                            "img": "http://dummyimage.com/48x48/87f279",
+                            "friends_name": "种见更重",
+                            "friends_dcr": "改成快格重则规广专内机意。",
+                            "msg": "水元",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 23,
+                            "img": "http://dummyimage.com/48x48/f279ab",
+                            "friends_name": "战近工种毛完",
+                            "friends_dcr": "习下工列务切受知今断争安至之东去最土格。",
+                            "msg": "复给分切",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 24,
+                            "img": "http://dummyimage.com/48x48/79cef2",
+                            "friends_name": "子平品听议",
+                            "friends_dcr": "党代型油划转。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 25,
+                            "img": "http://dummyimage.com/48x48/f1f279",
+                            "friends_name": "太即变办",
+                            "friends_dcr": "清力矿达给子式从。",
+                            "msg": "还查江马且",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 26,
+                            "img": "http://dummyimage.com/48x48/cf79f2",
+                            "friends_name": "往便阶再被你系",
+                            "friends_dcr": "八角回声外北式东统带都层什阶题。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 27,
+                            "img": "http://dummyimage.com/48x48/79f2ab",
+                            "friends_name": "最流少物传飞与",
+                            "friends_dcr": "约格思并定员活类称由类石气九克。",
+                            "msg": "难设许做百",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 28,
+                            "img": "http://dummyimage.com/48x48/f28879",
+                            "friends_name": "热着北观采",
+                            "friends_dcr": "么本写白门交色别数族新保到备决看收满气高。",
+                            "msg": "自",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 29,
+                            "img": "http://dummyimage.com/48x48/798df2",
+                            "friends_name": "解果连备面百没",
+                            "friends_dcr": "质五传影如总来其则只料团年只给六进门主。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 30,
+                            "img": "http://dummyimage.com/48x48/b0f279",
+                            "friends_name": "江色要温候",
+                            "friends_dcr": "情史复件每交务事单观光究美些二称去山花。",
+                            "msg": "保着",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 31,
+                            "img": "http://dummyimage.com/48x48/f279d3",
+                            "friends_name": "来她眼马三",
+                            "friends_dcr": "些什制才机着县算回收。",
+                            "msg": "国",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 32,
+                            "img": "http://dummyimage.com/48x48/79f2ed",
+                            "friends_name": "指处然感太要",
+                            "friends_dcr": "条近从法马或。",
+                            "msg": "能写位在",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 33,
+                            "img": "http://dummyimage.com/48x48/f2ca79",
+                            "friends_name": "了来着满们",
+                            "friends_dcr": "领放能八半内工。",
+                            "msg": "飞米看道比",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 34,
+                            "img": "http://dummyimage.com/48x48/a679f2",
+                            "friends_name": "型海候管观半历",
+                            "friends_dcr": "区劳人示而得目回光空。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 35,
+                            "img": "http://dummyimage.com/48x48/79f283",
+                            "friends_name": "省设人不干术斗",
+                            "friends_dcr": "做又确头段它高向列准则道引。",
+                            "msg": "手省路通",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 3,
+                    "categories_title": "石商许心次",
+                    "friends": [
+                        {
+                            "friends_id": 36,
+                            "img": "http://dummyimage.com/48x48/f27992",
+                            "friends_name": "据马例给状酸",
+                            "friends_dcr": "队受况关边技点计间合起便世通劳单。",
+                            "msg": "变电",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 37,
+                            "img": "http://dummyimage.com/48x48/79b5f2",
+                            "friends_name": "立已由接况新",
+                            "friends_dcr": "日红于劳确率我交因分八。",
+                            "msg": "可走",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 38,
+                            "img": "http://dummyimage.com/48x48/d8f279",
+                            "friends_name": "规者入它回",
+                            "friends_dcr": "象期些可科分术且平。",
+                            "msg": "用委华样",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 39,
+                            "img": "http://dummyimage.com/48x48/e879f2",
+                            "friends_name": "重半始强",
+                            "friends_dcr": "把时现况决前造器。",
+                            "msg": "理",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 40,
+                            "img": "http://dummyimage.com/48x48/79f2c4",
+                            "friends_name": "象化近流列从没",
+                            "friends_dcr": "先起片转战备干都型。",
+                            "msg": "党按们始",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 41,
+                            "img": "http://dummyimage.com/48x48/f2a179",
+                            "friends_name": "江正且住联资而",
+                            "friends_dcr": "合近保电金有又值实性关住位青精音来马。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 42,
+                            "img": "http://dummyimage.com/48x48/7e79f2",
+                            "friends_name": "至置最好历",
+                            "friends_dcr": "今器始者明例清许确空解万现什是有。",
+                            "msg": "联应团外明",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 43,
+                            "img": "http://dummyimage.com/48x48/97f279",
+                            "friends_name": "集作生次压东",
+                            "friends_dcr": "响同有目月复证统院料种派指具认华受五。",
+                            "msg": "属明具白",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 44,
+                            "img": "http://dummyimage.com/48x48/f279ba",
+                            "friends_name": "把价与识交极着",
+                            "friends_dcr": "利土厂道满细老此斯学万。",
+                            "msg": "由全具先目",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 45,
+                            "img": "http://dummyimage.com/48x48/79def2",
+                            "friends_name": "众状道五林华电所",
+                            "friends_dcr": "产关法还天。",
+                            "msg": "按",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 46,
+                            "img": "http://dummyimage.com/48x48/f2e379",
+                            "friends_name": "立月江物次",
+                            "friends_dcr": "发因人究再主素格并。",
+                            "msg": "品角",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 4,
+                    "categories_title": "原期府革维",
+                    "friends": [
+                        {
+                            "friends_id": 47,
+                            "img": "http://dummyimage.com/48x48/bf79f2",
+                            "friends_name": "象电快自",
+                            "friends_dcr": "低与便问之命图万才。",
+                            "msg": "面共加同根",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 48,
+                            "img": "http://dummyimage.com/48x48/79f29c",
+                            "friends_name": "能二府整飞利准",
+                            "friends_dcr": "做组与向王又展通合日集几入重深究空。",
+                            "msg": "铁须断",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 49,
+                            "img": "http://dummyimage.com/48x48/f27979",
+                            "friends_name": "价中六门于置多员",
+                            "friends_dcr": "无样感它如何带质知管光究号住志参原作位。",
+                            "msg": "又日入资",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 50,
+                            "img": "http://dummyimage.com/48x48/799cf2",
+                            "friends_name": "团议二一情构候基",
+                            "friends_dcr": "白法着离家上阶过段质使技世厂气么则把。",
+                            "msg": "上新机该",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 51,
+                            "img": "http://dummyimage.com/48x48/bff279",
+                            "friends_name": "并和口种维海",
+                            "friends_dcr": "济资且值点历属万问容品反团角音这。",
+                            "msg": "率",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 52,
+                            "img": "http://dummyimage.com/48x48/f279e3",
+                            "friends_name": "照发样加色",
+                            "friends_dcr": "达极一定关布自。",
+                            "msg": "十手二做",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 53,
+                            "img": "http://dummyimage.com/48x48/79f2dd",
+                            "friends_name": "组机回只同用",
+                            "friends_dcr": "展何等派志速面西接全路器。",
+                            "msg": "小派整回必",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 54,
+                            "img": "http://dummyimage.com/48x48/f2ba79",
+                            "friends_name": "志她农处给她酸",
+                            "friends_dcr": "派此干规极次术里还一感热且决整志式主准。",
+                            "msg": "西在说",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 5,
+                    "categories_title": "建己子点无实克达",
+                    "friends": [
+                        {
+                            "friends_id": 55,
+                            "img": "http://dummyimage.com/48x48/9779f2",
+                            "friends_name": "色看收号九管又",
+                            "friends_dcr": "位如产何第民织至。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 56,
+                            "img": "http://dummyimage.com/48x48/7ef279",
+                            "friends_name": "明改易近西容证始",
+                            "friends_dcr": "细通状还从农件才因元花象度术。",
+                            "msg": "角圆具一",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 57,
+                            "img": "http://dummyimage.com/48x48/f279a1",
+                            "friends_name": "素四传极支小广",
+                            "friends_dcr": "江可片共组结包需米识文则中共地。",
+                            "msg": "局",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 58,
+                            "img": "http://dummyimage.com/48x48/79c5f2",
+                            "friends_name": "场今了公代你",
+                            "friends_dcr": "器造事利构。",
+                            "msg": "命长事",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 59,
+                            "img": "http://dummyimage.com/48x48/e8f279",
+                            "friends_name": "达信据向",
+                            "friends_dcr": "指结走斗除对低米只。",
+                            "msg": "张至",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 60,
+                            "img": "http://dummyimage.com/48x48/d879f2",
+                            "friends_name": "温但达新在日去",
+                            "friends_dcr": "作眼转况却济王共持色西上他况本厂识实按。",
+                            "msg": "表始美求",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 61,
+                            "img": "http://dummyimage.com/48x48/79f2b5",
+                            "friends_name": "最压在油用题图",
+                            "friends_dcr": "变论备农料起叫经适备青。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 62,
+                            "img": "http://dummyimage.com/48x48/f29279",
+                            "friends_name": "本二科次",
+                            "friends_dcr": "算生带越着复严命系了真结阶住象。",
+                            "msg": "来次",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 63,
+                            "img": "http://dummyimage.com/48x48/7983f2",
+                            "friends_name": "现太世上光现",
+                            "friends_dcr": "边年装住可七安计下。",
+                            "msg": "打最量场",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 64,
+                            "img": "http://dummyimage.com/48x48/a6f279",
+                            "friends_name": "容被着置",
+                            "friends_dcr": "来更四细叫料步内为照南采文起马江计件运。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 65,
+                            "img": "http://dummyimage.com/48x48/f279ca",
+                            "friends_name": "前儿子快而",
+                            "friends_dcr": "三节没加素。",
+                            "msg": "革置须具",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 66,
+                            "img": "http://dummyimage.com/48x48/79edf2",
+                            "friends_name": "给律铁增众消",
+                            "friends_dcr": "存约学流才主飞局京联日了导体据动将江。",
+                            "msg": "解历又",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 6,
+                    "categories_title": "又取周高决持米列",
+                    "friends": [
+                        {
+                            "friends_id": 67,
+                            "img": "http://dummyimage.com/48x48/f2d379",
+                            "friends_name": "布维才传真情元",
+                            "friends_dcr": "己南响利两称深活根般这命时引类能压带度置。",
+                            "msg": "单资规看",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 68,
+                            "img": "http://dummyimage.com/48x48/b079f2",
+                            "friends_name": "院条运才参构",
+                            "friends_dcr": "际适中应心省过话算期为之百历厂者回因是新。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 69,
+                            "img": "http://dummyimage.com/48x48/79f28c",
+                            "friends_name": "千厂周政",
+                            "friends_dcr": "争八统质求日六。",
+                            "msg": "引更",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 70,
+                            "img": "http://dummyimage.com/48x48/f27988",
+                            "friends_name": "平每原热持联立",
+                            "friends_dcr": "风教只作己图须。",
+                            "msg": "便亲建",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 71,
+                            "img": "http://dummyimage.com/48x48/79abf2",
+                            "friends_name": "阶油不时何",
+                            "friends_dcr": "四群类须许革受半在。",
+                            "msg": "准列",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 72,
+                            "img": "http://dummyimage.com/48x48/cff279",
+                            "friends_name": "至流米空",
+                            "friends_dcr": "因结合之金部究马电不亲团出白目造调。",
+                            "msg": "资无置你",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 73,
+                            "img": "http://dummyimage.com/48x48/f179f2",
+                            "friends_name": "先示平快门",
+                            "friends_dcr": "须克海再就圆变片速象个。",
+                            "msg": "争展状",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 74,
+                            "img": "http://dummyimage.com/48x48/79f2ce",
+                            "friends_name": "法民开造却务",
+                            "friends_dcr": "光社动说不两事可证。",
+                            "msg": "总好",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 75,
+                            "img": "http://dummyimage.com/48x48/f2ab79",
+                            "friends_name": "类院白导头",
+                            "friends_dcr": "现育新照通斗。",
+                            "msg": "张",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 7,
+                    "categories_title": "年单地老响",
+                    "friends": [
+                        {
+                            "friends_id": 76,
+                            "img": "http://dummyimage.com/48x48/8779f2",
+                            "friends_name": "万体必离高律转即",
+                            "friends_dcr": "三们员用了形片深同。",
+                            "msg": "次",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 77,
+                            "img": "http://dummyimage.com/48x48/8df279",
+                            "friends_name": "得由展土科场斯",
+                            "friends_dcr": "术始认习值生地解况对处华动间严格外子属。",
+                            "msg": "如油",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 78,
+                            "img": "http://dummyimage.com/48x48/f279b1",
+                            "friends_name": "所因省土色回",
+                            "friends_dcr": "收达王别发华权青合声温管近青。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 79,
+                            "img": "http://dummyimage.com/48x48/79d4f2",
+                            "friends_name": "表石历已",
+                            "friends_dcr": "开年意本科场他西身。",
+                            "msg": "离除装",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 80,
+                            "img": "http://dummyimage.com/48x48/f2ec79",
+                            "friends_name": "然起同专色后",
+                            "friends_dcr": "步我之规压济亲书也越年精算。",
+                            "msg": "前派",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 81,
+                            "img": "http://dummyimage.com/48x48/c979f2",
+                            "friends_name": "号受深便保理石",
+                            "friends_dcr": "属往在情加应问连音计动立光委解见主万格应。",
+                            "msg": "半且",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 82,
+                            "img": "http://dummyimage.com/48x48/79f2a5",
+                            "friends_name": "听难件三队如报",
+                            "friends_dcr": "年规且及原观表马精走议千织快此比准京局。",
+                            "msg": "类片断必",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 8,
+                    "categories_title": "公由起很口口",
+                    "friends": [
+                        {
+                            "friends_id": 83,
+                            "img": "http://dummyimage.com/48x48/f28279",
+                            "friends_name": "商受机与可育",
+                            "friends_dcr": "那深极用格族国信体。",
+                            "msg": "之派位平形",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 84,
+                            "img": "http://dummyimage.com/48x48/7992f2",
+                            "friends_name": "门置团展热品市",
+                            "friends_dcr": "总算声但织亲阶领第子非片支经却花到想。",
+                            "msg": "七",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 85,
+                            "img": "http://dummyimage.com/48x48/b6f279",
+                            "friends_name": "场中压小层准",
+                            "friends_dcr": "快作结则理二代量到。",
+                            "msg": "太维",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 86,
+                            "img": "http://dummyimage.com/48x48/f279d9",
+                            "friends_name": "想放物值内消统",
+                            "friends_dcr": "回作指回中科给价条层究却角。",
+                            "msg": "好又",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 87,
+                            "img": "http://dummyimage.com/48x48/79f2e7",
+                            "friends_name": "满部决期线七",
+                            "friends_dcr": "消报示得状发在级再展几斗王消过队权。",
+                            "msg": "积作决周两",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 88,
+                            "img": "http://dummyimage.com/48x48/f2c479",
+                            "friends_name": "体如料认料",
+                            "friends_dcr": "关分性任始军总百温心容外较圆还命状响用。",
+                            "msg": "极音表写",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 89,
+                            "img": "http://dummyimage.com/48x48/a079f2",
+                            "friends_name": "进题点根数经",
+                            "friends_dcr": "改再身却儿又米标多积手热结度由色全农象。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 90,
+                            "img": "http://dummyimage.com/48x48/79f27d",
+                            "friends_name": "象战事许规极六",
+                            "friends_dcr": "南增革路知情组活。",
+                            "msg": "老解认",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 91,
+                            "img": "http://dummyimage.com/48x48/f27998",
+                            "friends_name": "际论做质接广",
+                            "friends_dcr": "点区七果线程即议引历原华情认取。",
+                            "msg": "引可圆",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 92,
+                            "img": "http://dummyimage.com/48x48/79bbf2",
+                            "friends_name": "近行却大细意列",
+                            "friends_dcr": "史法基全布正有石行。",
+                            "msg": "领",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 93,
+                            "img": "http://dummyimage.com/48x48/def279",
+                            "friends_name": "写两写儿知始节",
+                            "friends_dcr": "信写身公反回提拉。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 94,
+                            "img": "http://dummyimage.com/48x48/e279f2",
+                            "friends_name": "自权土后增同",
+                            "friends_dcr": "争温政明非史则放强化性合然种。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 95,
+                            "img": "http://dummyimage.com/48x48/79f2bf",
+                            "friends_name": "九军力般金",
+                            "friends_dcr": "世命三式主几重率完次也也验反。",
+                            "msg": "级保",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 96,
+                            "img": "http://dummyimage.com/48x48/f29b79",
+                            "friends_name": "对装研如就",
+                            "friends_dcr": "经究可只有周安命油色所。",
+                            "msg": "克程华上你",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 9,
+                    "categories_title": "只的委持而它生",
+                    "friends": [
+                        {
+                            "friends_id": 97,
+                            "img": "http://dummyimage.com/48x48/7979f2",
+                            "friends_name": "例五节是路酸",
+                            "friends_dcr": "自新约圆史专周局。",
+                            "msg": "问十派质",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 98,
+                            "img": "http://dummyimage.com/48x48/9df279",
+                            "friends_name": "回就须平统",
+                            "friends_dcr": "也级南花是保空其问路了务切标基所。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 99,
+                            "img": "http://dummyimage.com/48x48/f279c0",
+                            "friends_name": "应精王干集完点什",
+                            "friends_dcr": "离斯天做万育验认先华整能现基色。",
+                            "msg": "电影深信",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 100,
+                            "img": "http://dummyimage.com/48x48/79e3f2",
+                            "friends_name": "备始众学",
+                            "friends_dcr": "教物太前务了公同种治。",
+                            "msg": "养全",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 101,
+                            "img": "http://dummyimage.com/48x48/f2dd79",
+                            "friends_name": "大按圆众我",
+                            "friends_dcr": "起体京连则地引难出复事。",
+                            "msg": "合支人队空",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 102,
+                            "img": "http://dummyimage.com/48x48/b979f2",
+                            "friends_name": "交长委转技料治理",
+                            "friends_dcr": "件求证很向提通联才权已九教难术国具情。",
+                            "msg": "铁京如",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 103,
+                            "img": "http://dummyimage.com/48x48/79f296",
+                            "friends_name": "技感争学酸得",
+                            "friends_dcr": "志名发线员入信白并消。",
+                            "msg": "总半",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 104,
+                            "img": "http://dummyimage.com/48x48/f2797f",
+                            "friends_name": "手县做北便必做",
+                            "friends_dcr": "写历成京织见真了始。",
+                            "msg": "第矿达府",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 105,
+                            "img": "http://dummyimage.com/48x48/79a2f2",
+                            "friends_name": "委使先严由教",
+                            "friends_dcr": "积然性京大育他认满集。",
+                            "msg": "于照没",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 106,
+                            "img": "http://dummyimage.com/48x48/c5f279",
+                            "friends_name": "张单论府元由严光",
+                            "friends_dcr": "长家干强又需。",
+                            "msg": "本在和想",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 107,
+                            "img": "http://dummyimage.com/48x48/f279e9",
+                            "friends_name": "相飞断进提太",
+                            "friends_dcr": "接标县五出济根些反主在社后规属维。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 108,
+                            "img": "http://dummyimage.com/48x48/79f2d8",
+                            "friends_name": "商府据再海族",
+                            "friends_dcr": "当层速去合类断劳观受采队根水达高思。",
+                            "msg": "律完",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 109,
+                            "img": "http://dummyimage.com/48x48/f2b479",
+                            "friends_name": "团石起选石际和",
+                            "friends_dcr": "己千林器由支需按务。",
+                            "msg": "月",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 110,
+                            "img": "http://dummyimage.com/48x48/9179f2",
+                            "friends_name": "信知需受力",
+                            "friends_dcr": "内得组下斗克但重会导它。",
+                            "msg": "识个大转",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 111,
+                            "img": "http://dummyimage.com/48x48/84f279",
+                            "friends_name": "资却管思并",
+                            "friends_dcr": "运第周算战任对直文回代比议如除王油中因。",
+                            "msg": "变",
+                            "boolean": false
+                        }
+                    ]
+                }
+            ],
+            "groups_categories": [
+                {
+                    "groups_id": 1,
+                    "groups_title": "有构无外近毛照",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f279a7",
+                            "group_id": 1,
+                            "group_title": "加族影车与包声"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79caf2",
+                            "group_id": 2,
+                            "group_title": "完明些求"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/eef279",
+                            "group_id": 3,
+                            "group_title": "表再之教办"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d279f2",
+                            "group_id": 4,
+                            "group_title": "设据作律叫金形"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2af",
+                            "group_id": 5,
+                            "group_title": "采强法前"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f28c79",
+                            "group_id": 6,
+                            "group_title": "眼加它千省"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7989f2",
+                            "group_id": 7,
+                            "group_title": "来特影东织见"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/acf279",
+                            "group_id": 8,
+                            "group_title": "品层验书众集"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 2,
+                    "groups_title": "打及革毛度比",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f279d0",
+                            "group_id": 9,
+                            "group_title": "该再元置元"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2f1",
+                            "group_id": 10,
+                            "group_title": "图场间专组证"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2cd79",
+                            "group_id": 11,
+                            "group_title": "条再与划数"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/aa79f2",
+                            "group_id": 12,
+                            "group_title": "众做和外治来组"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f287",
+                            "group_id": 13,
+                            "group_title": "立组严对还"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2798e",
+                            "group_id": 14,
+                            "group_title": "和取马许写么少"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 3,
+                    "groups_title": "众实史则至间",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79b1f2",
+                            "group_id": 15,
+                            "group_title": "节世时度持"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d5f279",
+                            "group_id": 16,
+                            "group_title": "可根十完"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/eb79f2",
+                            "group_id": 17,
+                            "group_title": "战完北派"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2c8",
+                            "group_id": 18,
+                            "group_title": "千年位江参十"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2a579",
+                            "group_id": 19,
+                            "group_title": "根成义题相内安"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/8179f2",
+                            "group_id": 20,
+                            "group_title": "连情飞上界"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 4,
+                    "groups_title": "构打表白事类报如",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/93f279",
+                            "group_id": 21,
+                            "group_title": "北道第何指下接"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279b7",
+                            "group_id": 22,
+                            "group_title": "将共速代选调"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79daf2",
+                            "group_id": 23,
+                            "group_title": "经期红持社"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2e679",
+                            "group_id": 24,
+                            "group_title": "器天连白农江观"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/c379f2",
+                            "group_id": 25,
+                            "group_title": "里不率需石"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 5,
+                    "groups_title": "元金知号科",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2a0",
+                            "group_id": 26,
+                            "group_title": "条且物少形看合"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f27c79",
+                            "group_id": 27,
+                            "group_title": "证再点你布公"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7998f2",
+                            "group_id": 28,
+                            "group_title": "条新共厂建铁"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/bcf279",
+                            "group_id": 29,
+                            "group_title": "使好相体教能"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 6,
+                    "groups_title": "力为确广育加",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f279df",
+                            "group_id": 30,
+                            "group_title": "量期打数热"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2e1",
+                            "group_id": 31,
+                            "group_title": "老压展性切"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2be79",
+                            "group_id": 32,
+                            "group_title": "就题看把交题"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/9a79f2",
+                            "group_id": 33,
+                            "group_title": "工保导现联"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7af279",
+                            "group_id": 34,
+                            "group_title": "集离适段结者市加"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2799e",
+                            "group_id": 35,
+                            "group_title": "拉类象织类天点"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79c1f2",
+                            "group_id": 36,
+                            "group_title": "派价白商向十九"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 7,
+                    "groups_title": "员质步白并次给",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/e4f279",
+                            "group_id": 37,
+                            "group_title": "点际一较见却史"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/dc79f2",
+                            "group_id": 38,
+                            "group_title": "所置连口见文信"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2b9",
+                            "group_id": 39,
+                            "group_title": "标收力安头"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f29579",
+                            "group_id": 40,
+                            "group_title": "同了无价指论"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/797ff2",
+                            "group_id": 41,
+                            "group_title": "路切同段料"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/a3f279",
+                            "group_id": 42,
+                            "group_title": "手感或结办自线电"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279c6",
+                            "group_id": 43,
+                            "group_title": "方应社走事"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79e9f2",
+                            "group_id": 44,
+                            "group_title": "易证再科"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 8,
+                    "groups_title": "声争局应性",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f2d779",
+                            "group_id": 45,
+                            "group_title": "即先出记口观市处"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/b379f2",
+                            "group_id": 46,
+                            "group_title": "品织毛关表被思"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f290",
+                            "group_id": 47,
+                            "group_title": "周世活般最美"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f27984",
+                            "group_id": 48,
+                            "group_title": "四关火且法理候"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79a8f2",
+                            "group_id": 49,
+                            "group_title": "价线写论同"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 9,
+                    "groups_title": "提整连改",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/cbf279",
+                            "group_id": 50,
+                            "group_title": "次必小基"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279ef",
+                            "group_id": 51,
+                            "group_title": "门听般领老自定品"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2d2",
+                            "group_id": 52,
+                            "group_title": "定出越非经现及或"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2ae79",
+                            "group_id": 53,
+                            "group_title": "万所千达年治"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/8b79f2",
+                            "group_id": 54,
+                            "group_title": "难路酸展"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/8af279",
+                            "group_id": 55,
+                            "group_title": "消必济重安"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279ad",
+                            "group_id": 56,
+                            "group_title": "先小位内断约"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 10,
+                    "groups_title": "她家将件关议华",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79d0f2",
+                            "group_id": 57,
+                            "group_title": "题厂三维物二热"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2f079",
+                            "group_id": 58,
+                            "group_title": "理目之温器外我"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/cc79f2",
+                            "group_id": 59,
+                            "group_title": "空没活验大只速"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2a9",
+                            "group_id": 60,
+                            "group_title": "回道往时国十"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f28679",
+                            "group_id": 61,
+                            "group_title": "事织进格千会及度"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/798ff2",
+                            "group_id": 62,
+                            "group_title": "红过八间育天"
+                        }
+                    ]
+                }
+            ],
+            "groups_chat": [
+                {
+                    "groups_chat_id": 1,
+                    "groups_chat_img": "http://dummyimage.com/48x48/b2f279",
+                    "groups_chat_name": "新正难加步准证点战身走维后"
+                },
+                {
+                    "groups_chat_id": 2,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f279d5",
+                    "groups_chat_name": "除带现新国受"
+                },
+                {
+                    "groups_chat_id": 3,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79f2eb",
+                    "groups_chat_name": "精子比体二活月构将指体前族己目县"
+                },
+                {
+                    "groups_chat_id": 4,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f2c779",
+                    "groups_chat_name": "第西农织员族圆劳矿压术"
+                },
+                {
+                    "groups_chat_id": 5,
+                    "groups_chat_img": "http://dummyimage.com/48x48/a479f2",
+                    "groups_chat_name": "部气备叫热现区表为少取农除百"
+                },
+                {
+                    "groups_chat_id": 6,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79f281",
+                    "groups_chat_name": "此引期严如九利里战"
+                }
+            ],
+            "selectedFriends": []
+        },
+        {
+            "userId": 2,
+            "account": "13570579992",
+            "pwd": "123456",
+            "img": "http://dummyimage.com/48x48/f27994",
+            "grade": 12,
+            "name": "些体花设但",
+            "signature": "细带置而基身本。",
+            "friends_categories": [
+                {
+                    "categories_id": 10,
+                    "categories_title": "住自何平",
+                    "friends": [
+                        {
+                            "friends_id": 112,
+                            "img": "http://dummyimage.com/48x48/79b7f2",
+                            "friends_name": "电集思至民安管写",
+                            "friends_dcr": "克品两种头。",
+                            "msg": "信族内",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 113,
+                            "img": "http://dummyimage.com/48x48/dbf279",
+                            "friends_name": "容力问关半理",
+                            "friends_dcr": "设事间片光原么可却当次将调周民华。",
+                            "msg": "命",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 114,
+                            "img": "http://dummyimage.com/48x48/e679f2",
+                            "friends_name": "作去响入科",
+                            "friends_dcr": "火劳门属即开因动引观压点步还则。",
+                            "msg": "共市标",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 115,
+                            "img": "http://dummyimage.com/48x48/79f2c2",
+                            "friends_name": "国建响之织",
+                            "friends_dcr": "战住党设往。",
+                            "msg": "利",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 116,
+                            "img": "http://dummyimage.com/48x48/f29f79",
+                            "friends_name": "状步形示管系状",
+                            "friends_dcr": "每自儿百列。",
+                            "msg": "矿住率阶",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 117,
+                            "img": "http://dummyimage.com/48x48/7b79f2",
+                            "friends_name": "程难处济该给太今",
+                            "friends_dcr": "深级所达那金商装而候到调温非南提主米办。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 118,
+                            "img": "http://dummyimage.com/48x48/99f279",
+                            "friends_name": "报型办三真些水",
+                            "friends_dcr": "造铁干先方及里当油克于直力。",
+                            "msg": "传机还不",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 119,
+                            "img": "http://dummyimage.com/48x48/f279bc",
+                            "friends_name": "复天声南",
+                            "friends_dcr": "一马酸音存很。",
+                            "msg": "合非色",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 120,
+                            "img": "http://dummyimage.com/48x48/79e0f2",
+                            "friends_name": "平律增对七",
+                            "friends_dcr": "清八细千象又如红面非使置地认等外名。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 121,
+                            "img": "http://dummyimage.com/48x48/f2e079",
+                            "friends_name": "型程类动清别总",
+                            "friends_dcr": "委还派连干。",
+                            "msg": "单实民",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 122,
+                            "img": "http://dummyimage.com/48x48/bd79f2",
+                            "friends_name": "回文可重效",
+                            "friends_dcr": "光记车做意权做第装二一想。",
+                            "msg": "千",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 123,
+                            "img": "http://dummyimage.com/48x48/79f29a",
+                            "friends_name": "极或划最示务",
+                            "friends_dcr": "不易由后定属。",
+                            "msg": "要近发",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 124,
+                            "img": "http://dummyimage.com/48x48/f2797b",
+                            "friends_name": "时万体回目资门属",
+                            "friends_dcr": "五革精被省当改。",
+                            "msg": "个选因",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 125,
+                            "img": "http://dummyimage.com/48x48/799ef2",
+                            "friends_name": "代有结议月",
+                            "friends_dcr": "局除公说话带队政。",
+                            "msg": "指空快会",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 11,
+                    "categories_title": "必求料统治林元被",
+                    "friends": [
+                        {
+                            "friends_id": 126,
+                            "img": "http://dummyimage.com/48x48/c2f279",
+                            "friends_name": "出效构受",
+                            "friends_dcr": "圆质放而压对越县。",
+                            "msg": "清按",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 127,
+                            "img": "http://dummyimage.com/48x48/f279e5",
+                            "friends_name": "张拉至证种",
+                            "friends_dcr": "她国车片基。",
+                            "msg": "强节",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 128,
+                            "img": "http://dummyimage.com/48x48/79f2db",
+                            "friends_name": "代百东五阶",
+                            "friends_dcr": "把重张学名办小斯东图间。",
+                            "msg": "线般月术",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 129,
+                            "img": "http://dummyimage.com/48x48/f2b879",
+                            "friends_name": "人交证周断置种",
+                            "friends_dcr": "个克少济通保传家。",
+                            "msg": "活作后目华",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 130,
+                            "img": "http://dummyimage.com/48x48/9579f2",
+                            "friends_name": "五属写文近省习",
+                            "friends_dcr": "将一有带程边也传拉。",
+                            "msg": "作这过",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 131,
+                            "img": "http://dummyimage.com/48x48/80f279",
+                            "friends_name": "身千住特水需",
+                            "friends_dcr": "次效精计心温例原较。",
+                            "msg": "始",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 132,
+                            "img": "http://dummyimage.com/48x48/f279a3",
+                            "friends_name": "教水知经统历",
+                            "friends_dcr": "细统研将张说治指切马想全米约己。",
+                            "msg": "红运且家",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 133,
+                            "img": "http://dummyimage.com/48x48/79c7f2",
+                            "friends_name": "达类张一国取权",
+                            "friends_dcr": "则记际打运用合外。",
+                            "msg": "最",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 134,
+                            "img": "http://dummyimage.com/48x48/eaf279",
+                            "friends_name": "起很日心而",
+                            "friends_dcr": "列史机确比传管土。",
+                            "msg": "东百都",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 135,
+                            "img": "http://dummyimage.com/48x48/d679f2",
+                            "friends_name": "形军口制题",
+                            "friends_dcr": "严使点业况办子铁型成公存建你位转出族市成。",
+                            "msg": "多委王",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 136,
+                            "img": "http://dummyimage.com/48x48/79f2b3",
+                            "friends_name": "北支我写美取引组",
+                            "friends_dcr": "月还教你且府传解无期传般支角者层被去验矿。",
+                            "msg": "最",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 137,
+                            "img": "http://dummyimage.com/48x48/f28f79",
+                            "friends_name": "东院转三的",
+                            "friends_dcr": "验就克所去事做习真是导本实团下育。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 138,
+                            "img": "http://dummyimage.com/48x48/7985f2",
+                            "friends_name": "连离面是",
+                            "friends_dcr": "深例往交表发争意极民放。",
+                            "msg": "所",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 139,
+                            "img": "http://dummyimage.com/48x48/a9f279",
+                            "friends_name": "王林路际山",
+                            "friends_dcr": "院目人公须开族名物严方开准干。",
+                            "msg": "石许",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 140,
+                            "img": "http://dummyimage.com/48x48/f279cc",
+                            "friends_name": "这前规领",
+                            "friends_dcr": "走常团白派收是物系连习毛建关由广象。",
+                            "msg": "面",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 141,
+                            "img": "http://dummyimage.com/48x48/79eff2",
+                            "friends_name": "劳北王上把",
+                            "friends_dcr": "且动很属共得容民中水点感。",
+                            "msg": "思活习展同",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 142,
+                            "img": "http://dummyimage.com/48x48/f2d179",
+                            "friends_name": "因面严山日压何",
+                            "friends_dcr": "九住将类音个儿办界区线工今置号心。",
+                            "msg": "十委",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 143,
+                            "img": "http://dummyimage.com/48x48/ae79f2",
+                            "friends_name": "易见究石音",
+                            "friends_dcr": "比照期回任越斯求人九应场增日太劳快。",
+                            "msg": "什三史时",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 144,
+                            "img": "http://dummyimage.com/48x48/79f28a",
+                            "friends_name": "叫连样影认华质三",
+                            "friends_dcr": "省了没以团院。",
+                            "msg": "看好共",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 12,
+                    "categories_title": "清上眼为以",
+                    "friends": [
+                        {
+                            "friends_id": 145,
+                            "img": "http://dummyimage.com/48x48/f2798a",
+                            "friends_name": "代众住单量干",
+                            "friends_dcr": "位更毛因出百。",
+                            "msg": "情目",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 146,
+                            "img": "http://dummyimage.com/48x48/79aef2",
+                            "friends_name": "工角山算只",
+                            "friends_dcr": "律风水所收四列老种思东期劳设共出须。",
+                            "msg": "度技八究",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 147,
+                            "img": "http://dummyimage.com/48x48/d1f279",
+                            "friends_name": "安相北包特东",
+                            "friends_dcr": "华件与农小极天一选住。",
+                            "msg": "流位家",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 148,
+                            "img": "http://dummyimage.com/48x48/ef79f2",
+                            "friends_name": "外气且示儿层山",
+                            "friends_dcr": "要万得地思商到构共示。",
+                            "msg": "身步还二",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 149,
+                            "img": "http://dummyimage.com/48x48/79f2cc",
+                            "friends_name": "近但效她该几",
+                            "friends_dcr": "意积况么认查展市就代高规其把内。",
+                            "msg": "改到周带",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 150,
+                            "img": "http://dummyimage.com/48x48/f2a879",
+                            "friends_name": "日每党八角不工准",
+                            "friends_dcr": "会意经上或名们。",
+                            "msg": "反全适",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 151,
+                            "img": "http://dummyimage.com/48x48/8579f2",
+                            "friends_name": "需知受在八",
+                            "friends_dcr": "车切今议准种原农包军水维干织风群动温。",
+                            "msg": "正空科自写",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 152,
+                            "img": "http://dummyimage.com/48x48/90f279",
+                            "friends_name": "别样社维米然省",
+                            "friends_dcr": "号十之不头能计海事认计示。",
+                            "msg": "你身过直",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 13,
+                    "categories_title": "期听效道",
+                    "friends": [
+                        {
+                            "friends_id": 153,
+                            "img": "http://dummyimage.com/48x48/f279b3",
+                            "friends_name": "书影毛色就第交",
+                            "friends_dcr": "形应教响由率亲发号器整高极公着。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 154,
+                            "img": "http://dummyimage.com/48x48/79d6f2",
+                            "friends_name": "多达但立",
+                            "friends_dcr": "运等科比现不始厂文声并地个查风者。",
+                            "msg": "记",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 155,
+                            "img": "http://dummyimage.com/48x48/f2ea79",
+                            "friends_name": "只立标名",
+                            "friends_dcr": "该要接千山复相年拉你体规员太义了院写角。",
+                            "msg": "通今",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 156,
+                            "img": "http://dummyimage.com/48x48/c779f2",
+                            "friends_name": "议第存过",
+                            "friends_dcr": "大表安白全教效山千意斗时改受史共真。",
+                            "msg": "验矿会",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 157,
+                            "img": "http://dummyimage.com/48x48/79f2a3",
+                            "friends_name": "大标精作",
+                            "friends_dcr": "体存相收也领问千育平积直十回便己战队都明。",
+                            "msg": "千收越斗与",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 158,
+                            "img": "http://dummyimage.com/48x48/f28079",
+                            "friends_name": "些那设便",
+                            "friends_dcr": "制传象人离规查更日。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 159,
+                            "img": "http://dummyimage.com/48x48/7995f2",
+                            "friends_name": "五头器很市快所",
+                            "friends_dcr": "线之商其许。",
+                            "msg": "米阶反过",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 14,
+                    "categories_title": "放住场千来标道究",
+                    "friends": [
+                        {
+                            "friends_id": 160,
+                            "img": "http://dummyimage.com/48x48/b8f279",
+                            "friends_name": "头使相后府类",
+                            "friends_dcr": "把变常活儿划本物此。",
+                            "msg": "土面将",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 161,
+                            "img": "http://dummyimage.com/48x48/f279db",
+                            "friends_name": "电原连事是",
+                            "friends_dcr": "以办里量西米。",
+                            "msg": "当",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 162,
+                            "img": "http://dummyimage.com/48x48/79f2e5",
+                            "friends_name": "专区民内许如成",
+                            "friends_dcr": "规入原取列派十接低本已。",
+                            "msg": "周表党",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 163,
+                            "img": "http://dummyimage.com/48x48/f2c179",
+                            "friends_name": "先车加维而科",
+                            "friends_dcr": "心结子美并么。",
+                            "msg": "造理",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 164,
+                            "img": "http://dummyimage.com/48x48/9e79f2",
+                            "friends_name": "却研带组几实今须",
+                            "friends_dcr": "众计产带问强说反此素采向志。",
+                            "msg": "花术几转",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 165,
+                            "img": "http://dummyimage.com/48x48/79f27b",
+                            "friends_name": "生往标则",
+                            "friends_dcr": "形济构值真清起五具。",
+                            "msg": "工始",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 166,
+                            "img": "http://dummyimage.com/48x48/f2799a",
+                            "friends_name": "没江量技支形技",
+                            "friends_dcr": "求志劳算数算共军界政达效社器法。",
+                            "msg": "近便",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 167,
+                            "img": "http://dummyimage.com/48x48/79bdf2",
+                            "friends_name": "具五人区展情持",
+                            "friends_dcr": "起织斯价习看八设利本的加劳叫最管带北风。",
+                            "msg": "难正么使",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 15,
+                    "categories_title": "角知变月样观",
+                    "friends": [
+                        {
+                            "friends_id": 168,
+                            "img": "http://dummyimage.com/48x48/e1f279",
+                            "friends_name": "教走切族必质立",
+                            "friends_dcr": "第火放适交运那决深南干带。",
+                            "msg": "时格周非",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 169,
+                            "img": "http://dummyimage.com/48x48/e079f2",
+                            "friends_name": "层据花片度般山运",
+                            "friends_dcr": "报没从回计可来她面什低查厂这更别。",
+                            "msg": "原空她铁",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 170,
+                            "img": "http://dummyimage.com/48x48/79f2bc",
+                            "friends_name": "金则往离为采志",
+                            "friends_dcr": "得性少质与群步离科没多世拉用万要越表。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 171,
+                            "img": "http://dummyimage.com/48x48/f29979",
+                            "friends_name": "始用最前建",
+                            "friends_dcr": "观复听层更者共温任专权你系规总位。",
+                            "msg": "部单立",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 172,
+                            "img": "http://dummyimage.com/48x48/797cf2",
+                            "friends_name": "因业发低",
+                            "friends_dcr": "其制结一手高油关物就知但转将实越所一毛比。",
+                            "msg": "元月比",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 173,
+                            "img": "http://dummyimage.com/48x48/9ff279",
+                            "friends_name": "府来表种极老外压",
+                            "friends_dcr": "状委历经名有影京部再方。",
+                            "msg": "十",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 174,
+                            "img": "http://dummyimage.com/48x48/f279c2",
+                            "friends_name": "设叫转革由",
+                            "friends_dcr": "东需铁少明重争周产通红照七。",
+                            "msg": "才化对作",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 175,
+                            "img": "http://dummyimage.com/48x48/79e6f2",
+                            "friends_name": "约保记建红",
+                            "friends_dcr": "在清风温器中活何国没。",
+                            "msg": "队取书",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 176,
+                            "img": "http://dummyimage.com/48x48/f2da79",
+                            "friends_name": "级技总重",
+                            "friends_dcr": "提南众那那保头想候生一得完化局参作。",
+                            "msg": "务并原",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 177,
+                            "img": "http://dummyimage.com/48x48/b779f2",
+                            "friends_name": "被才离非值素条",
+                            "friends_dcr": "它门值世低切进院想九想边区与小部。",
+                            "msg": "也",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 178,
+                            "img": "http://dummyimage.com/48x48/79f294",
+                            "friends_name": "布计听化设按节好",
+                            "friends_dcr": "实种老然精大许军年。",
+                            "msg": "之铁国角",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 179,
+                            "img": "http://dummyimage.com/48x48/f27981",
+                            "friends_name": "于角整求动生效",
+                            "friends_dcr": "分来据你业格时想织。",
+                            "msg": "形声记",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 180,
+                            "img": "http://dummyimage.com/48x48/79a4f2",
+                            "friends_name": "查飞此今照回发",
+                            "friends_dcr": "活快克金水说电利问常办论你确反处。",
+                            "msg": "利可石",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 181,
+                            "img": "http://dummyimage.com/48x48/c8f279",
+                            "friends_name": "她局地增型便程",
+                            "friends_dcr": "革本即能历保已叫心而边观越民问工县。",
+                            "msg": "据",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 182,
+                            "img": "http://dummyimage.com/48x48/f279eb",
+                            "friends_name": "多事次求京",
+                            "friends_dcr": "话事导志定格气出市叫备共。",
+                            "msg": "清品",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 183,
+                            "img": "http://dummyimage.com/48x48/79f2d5",
+                            "friends_name": "或格列方们快",
+                            "friends_dcr": "素红及音标她有子严清问。",
+                            "msg": "公做",
+                            "boolean": false
+                        }
+                    ]
+                }
+            ],
+            "groups_categories": [
+                {
+                    "groups_id": 11,
+                    "groups_title": "军出期不就报",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f2b279",
+                            "group_id": 63,
+                            "group_title": "响支装革果"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/8f79f2",
+                            "group_id": 64,
+                            "group_title": "应报民出问取"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/86f279",
+                            "group_id": 65,
+                            "group_title": "龙任反里别会"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279a9",
+                            "group_id": 66,
+                            "group_title": "求产展如义低料"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 12,
+                    "groups_title": "场受六白听民府",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79cdf2",
+                            "group_id": 67,
+                            "group_title": "斯平须周路南"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f0f279",
+                            "group_id": 68,
+                            "group_title": "飞程由存会群产按"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d079f2",
+                            "group_id": 69,
+                            "group_title": "日工除拉理门"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2ad",
+                            "group_id": 70,
+                            "group_title": "济劳各完"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f28979",
+                            "group_id": 71,
+                            "group_title": "面形或命习国"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/798bf2",
+                            "group_id": 72,
+                            "group_title": "天明按把路起"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/aef279",
+                            "group_id": 73,
+                            "group_title": "她强给图果机体"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 13,
+                    "groups_title": "全产我你所经决",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f279d2",
+                            "group_id": 74,
+                            "group_title": "证声西计新速"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2ee",
+                            "group_id": 75,
+                            "group_title": "形持价这级"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2cb79",
+                            "group_id": 76,
+                            "group_title": "六农照示响料前"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/a879f2",
+                            "group_id": 77,
+                            "group_title": "劳会目名对南权再"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f284",
+                            "group_id": 78,
+                            "group_title": "无全所示最"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f27990",
+                            "group_id": 79,
+                            "group_title": "改平人党拉"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 14,
+                    "groups_title": "而别经流在打方",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79b4f2",
+                            "group_id": 80,
+                            "group_title": "做养程重动"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d7f279",
+                            "group_id": 81,
+                            "group_title": "学根为问"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/e979f2",
+                            "group_id": 82,
+                            "group_title": "史样金住据别"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2c6",
+                            "group_id": 83,
+                            "group_title": "再几们到等以易"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2a279",
+                            "group_id": 84,
+                            "group_title": "教道划天力史许"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7f79f2",
+                            "group_id": 85,
+                            "group_title": "集技问点外今"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/95f279",
+                            "group_id": 86,
+                            "group_title": "局带非维式求"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279b9",
+                            "group_id": 87,
+                            "group_title": "以能二例除"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 15,
+                    "groups_title": "接委压非长提会组",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79dcf2",
+                            "group_id": 88,
+                            "group_title": "火包导业大列议"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2e479",
+                            "group_id": 89,
+                            "group_title": "议统市现状际"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/c179f2",
+                            "group_id": 90,
+                            "group_title": "亲面音着们法"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f29d",
+                            "group_id": 91,
+                            "group_title": "书术发科等议别"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 16,
+                    "groups_title": "北各器报果",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f27a79",
+                            "group_id": 92,
+                            "group_title": "总京压他无"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/799bf2",
+                            "group_id": 93,
+                            "group_title": "美见律低值制"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/bef279",
+                            "group_id": 94,
+                            "group_title": "六道压始并"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279e1",
+                            "group_id": 95,
+                            "group_title": "断分八越几人点"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2df",
+                            "group_id": 96,
+                            "group_title": "华命般专全还此每"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2bc79",
+                            "group_id": 97,
+                            "group_title": "加省开类部"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 17,
+                    "groups_title": "观做科部",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/9879f2",
+                            "group_id": 98,
+                            "group_title": "深能精查"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7cf279",
+                            "group_id": 99,
+                            "group_title": "接年们和第广"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279a0",
+                            "group_id": 100,
+                            "group_title": "效便省规月步米"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79c3f2",
+                            "group_id": 101,
+                            "group_title": "全由儿没"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/e6f279",
+                            "group_id": 102,
+                            "group_title": "明太众之油管当"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/da79f2",
+                            "group_id": 103,
+                            "group_title": "直等数化"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2b6",
+                            "group_id": 104,
+                            "group_title": "行路政亲具验克"
+                        }
+                    ]
+                }
+            ],
+            "groups_chat": [
+                {
+                    "groups_chat_id": 7,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f29379",
+                    "groups_chat_name": "需者族第共化证需感主记其把平技准音"
+                },
+                {
+                    "groups_chat_id": 8,
+                    "groups_chat_img": "http://dummyimage.com/48x48/7982f2",
+                    "groups_chat_name": "全象省影机理决别际省难阶好调队省式"
+                },
+                {
+                    "groups_chat_id": 9,
+                    "groups_chat_img": "http://dummyimage.com/48x48/a5f279",
+                    "groups_chat_name": "体空术月么增展年"
+                },
+                {
+                    "groups_chat_id": 10,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f279c8",
+                    "groups_chat_name": "华可属万毛农大真又面分水说红"
+                },
+                {
+                    "groups_chat_id": 11,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79ecf2",
+                    "groups_chat_name": "百段识间想月风完强准业并般安动许产知"
+                },
+                {
+                    "groups_chat_id": 12,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f2d579",
+                    "groups_chat_name": "已将复总器院类例给千明取有各结把人"
+                },
+                {
+                    "groups_chat_id": 13,
+                    "groups_chat_img": "http://dummyimage.com/48x48/b179f2",
+                    "groups_chat_name": "线较该建四要细以民信"
+                },
+                {
+                    "groups_chat_id": 14,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79f28e",
+                    "groups_chat_name": "那派备部分般术量到将专题"
+                },
+                {
+                    "groups_chat_id": 15,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f27987",
+                    "groups_chat_name": "治道准风们研先指到"
+                },
+                {
+                    "groups_chat_id": 16,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79aaf2",
+                    "groups_chat_name": "身准从叫府回车保"
+                }
+            ],
+            "selectedFriends": []
+        },
+        {
+            "userId": 3,
+            "account": "1519947020",
+            "pwd": "ycxalyn",
+            "img": "http://dummyimage.com/48x48/cdf279",
+            "grade": 12,
+            "name": "下确容展间斗们",
+            "signature": "应研完近改识西。",
+            "friends_categories": [
+                {
+                    "categories_id": 16,
+                    "categories_title": "大研和小火",
+                    "friends": [
+                        {
+                            "friends_id": 184,
+                            "img": "http://dummyimage.com/48x48/f279f1",
+                            "friends_name": "军主写认质二根",
+                            "friends_dcr": "好系出高型布物事价九料展育争商斗系农。",
+                            "msg": "己",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 185,
+                            "img": "http://dummyimage.com/48x48/79f2cf",
+                            "friends_name": "边花也种候",
+                            "friends_dcr": "今决价统老车正取电情。",
+                            "msg": "正",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 186,
+                            "img": "http://dummyimage.com/48x48/f2ac79",
+                            "friends_name": "低山物品温",
+                            "friends_dcr": "通花与只别活委部连然。",
+                            "msg": "老",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 187,
+                            "img": "http://dummyimage.com/48x48/8979f2",
+                            "friends_name": "就委比置专于",
+                            "friends_dcr": "新全今单热各家次又北温全目农标于。",
+                            "msg": "东",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 188,
+                            "img": "http://dummyimage.com/48x48/8cf279",
+                            "friends_name": "状业今打了",
+                            "friends_dcr": "由化商我型动长准专当文证。",
+                            "msg": "太",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 189,
+                            "img": "http://dummyimage.com/48x48/f279af",
+                            "friends_name": "天使金意出",
+                            "friends_dcr": "经党约统当己特来边说因济领也亲由基比。",
+                            "msg": "商出专",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 190,
+                            "img": "http://dummyimage.com/48x48/79d3f2",
+                            "friends_name": "采应任式前织光",
+                            "friends_dcr": "十员指验层认林下七区必几集际经情持。",
+                            "msg": "快达",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 191,
+                            "img": "http://dummyimage.com/48x48/f2ee79",
+                            "friends_name": "这般角科实同织管",
+                            "friends_dcr": "上王算便体北由习共。",
+                            "msg": "以广织与",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 192,
+                            "img": "http://dummyimage.com/48x48/ca79f2",
+                            "friends_name": "又物县或复第",
+                            "friends_dcr": "前量头存近元气话却表世力。",
+                            "msg": "了",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 193,
+                            "img": "http://dummyimage.com/48x48/79f2a7",
+                            "friends_name": "过拉打收",
+                            "friends_dcr": "重治复斗历往素角。",
+                            "msg": "正到马五列",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 194,
+                            "img": "http://dummyimage.com/48x48/f28479",
+                            "friends_name": "着段作她际林化",
+                            "friends_dcr": "才得完下解自型农品二手斗民务。",
+                            "msg": "育",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 195,
+                            "img": "http://dummyimage.com/48x48/7991f2",
+                            "friends_name": "对老斗因",
+                            "friends_dcr": "过厂器当集。",
+                            "msg": "府政林质",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 17,
+                    "categories_title": "个很取务位各技",
+                    "friends": [
+                        {
+                            "friends_id": 196,
+                            "img": "http://dummyimage.com/48x48/b4f279",
+                            "friends_name": "作质物儿",
+                            "friends_dcr": "质老志活就走计认而局小设满事。",
+                            "msg": "非最斗但",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 197,
+                            "img": "http://dummyimage.com/48x48/f279d8",
+                            "friends_name": "公政精四",
+                            "friends_dcr": "公任应都青日眼界声公和全起中太位等。",
+                            "msg": "想",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 198,
+                            "img": "http://dummyimage.com/48x48/79f2e8",
+                            "friends_name": "查江元先离",
+                            "friends_dcr": "拉队她常当过而龙身化类工火更什。",
+                            "msg": "养",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 199,
+                            "img": "http://dummyimage.com/48x48/f2c579",
+                            "friends_name": "马八认江除交节",
+                            "friends_dcr": "向效区治利任称八报市比拉。",
+                            "msg": "产温好属来",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 200,
+                            "img": "http://dummyimage.com/48x48/a279f2",
+                            "friends_name": "比色件名出",
+                            "friends_dcr": "如完快什和件名加容好。",
+                            "msg": "走大情",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 201,
+                            "img": "http://dummyimage.com/48x48/79f27e",
+                            "friends_name": "张使记件",
+                            "friends_dcr": "名广如各国展率适育除业米公价还。",
+                            "msg": "运系队别改",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 202,
+                            "img": "http://dummyimage.com/48x48/f27996",
+                            "friends_name": "报步影究",
+                            "friends_dcr": "派意三命带眼斗切员。",
+                            "msg": "面研较",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 203,
+                            "img": "http://dummyimage.com/48x48/79baf2",
+                            "friends_name": "委劳三得口",
+                            "friends_dcr": "照厂较改称料。",
+                            "msg": "次织光",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 18,
+                    "categories_title": "美界内对需色",
+                    "friends": [
+                        {
+                            "friends_id": 204,
+                            "img": "http://dummyimage.com/48x48/ddf279",
+                            "friends_name": "究道系效日压争",
+                            "friends_dcr": "走近外气三声按从线类三布花我和。",
+                            "msg": "常物门不",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 205,
+                            "img": "http://dummyimage.com/48x48/e379f2",
+                            "friends_name": "持造多行切走它即",
+                            "friends_dcr": "者队将际毛酸公内红里受点按战见。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 206,
+                            "img": "http://dummyimage.com/48x48/79f2c0",
+                            "friends_name": "见照能取品观参",
+                            "friends_dcr": "消月然行切上见压千细平般满年点感当本月点。",
+                            "msg": "头众了说",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 207,
+                            "img": "http://dummyimage.com/48x48/f29d79",
+                            "friends_name": "眼比众水",
+                            "friends_dcr": "治身天后象相处价起山列点么红设。",
+                            "msg": "老",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 208,
+                            "img": "http://dummyimage.com/48x48/7979f2",
+                            "friends_name": "布一前打查量",
+                            "friends_dcr": "才身须周导。",
+                            "msg": "空",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 209,
+                            "img": "http://dummyimage.com/48x48/9bf279",
+                            "friends_name": "应统形众",
+                            "friends_dcr": "被们收战族统和道一根快数度龙时以求了。",
+                            "msg": "元最通西天",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 210,
+                            "img": "http://dummyimage.com/48x48/f279bf",
+                            "friends_name": "精间维热利论构",
+                            "friends_dcr": "军图高么至加选划往历情近真她。",
+                            "msg": "入真",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 211,
+                            "img": "http://dummyimage.com/48x48/79e2f2",
+                            "friends_name": "经争解先报",
+                            "friends_dcr": "第共关于周国但表。",
+                            "msg": "科思具",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 212,
+                            "img": "http://dummyimage.com/48x48/f2de79",
+                            "friends_name": "此活得代无",
+                            "friends_dcr": "立制办形往着想称公劳专带体。",
+                            "msg": "带她原",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 213,
+                            "img": "http://dummyimage.com/48x48/bb79f2",
+                            "friends_name": "须光次众去教这",
+                            "friends_dcr": "增感话世些知候。",
+                            "msg": "走",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 214,
+                            "img": "http://dummyimage.com/48x48/79f297",
+                            "friends_name": "太压成示易",
+                            "friends_dcr": "新联政却按红资件示进别。",
+                            "msg": "动干立治目",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 215,
+                            "img": "http://dummyimage.com/48x48/f2797d",
+                            "friends_name": "流心也知矿步",
+                            "friends_dcr": "热增改断我原把场为对国日油。",
+                            "msg": "资统",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 216,
+                            "img": "http://dummyimage.com/48x48/79a1f2",
+                            "friends_name": "织给位原多适",
+                            "friends_dcr": "构严石金们文运最自劳深结压走光把市马。",
+                            "msg": "值除才例",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 217,
+                            "img": "http://dummyimage.com/48x48/c4f279",
+                            "friends_name": "间军北变发己",
+                            "friends_dcr": "领式想给儿省六张重体。",
+                            "msg": "即然",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 19,
+                    "categories_title": "算因难于军",
+                    "friends": [
+                        {
+                            "friends_id": 218,
+                            "img": "http://dummyimage.com/48x48/f279e7",
+                            "friends_name": "通品得义至质图",
+                            "friends_dcr": "商角下会动入器给引明多各科等。",
+                            "msg": "参何候",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 219,
+                            "img": "http://dummyimage.com/48x48/79f2d9",
+                            "friends_name": "以价院图",
+                            "friends_dcr": "手专在资米面。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 220,
+                            "img": "http://dummyimage.com/48x48/f2b679",
+                            "friends_name": "油大府报教",
+                            "friends_dcr": "取始立除拉建史易说六布联体完须理上十是音。",
+                            "msg": "由定全导",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 221,
+                            "img": "http://dummyimage.com/48x48/9279f2",
+                            "friends_name": "例流党示便",
+                            "friends_dcr": "易算这严达务马华度南难按么状如使。",
+                            "msg": "一研类太",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 222,
+                            "img": "http://dummyimage.com/48x48/82f279",
+                            "friends_name": "便产光电识生",
+                            "friends_dcr": "克情员新变天新效回器理较。",
+                            "msg": "说色十界科",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 223,
+                            "img": "http://dummyimage.com/48x48/f279a6",
+                            "friends_name": "员种道实果支己",
+                            "friends_dcr": "义会须强导例得常层走进行单头时单但极。",
+                            "msg": "务你",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 224,
+                            "img": "http://dummyimage.com/48x48/79c9f2",
+                            "friends_name": "种当感月风越",
+                            "friends_dcr": "斗计支此列知情思有管教斗斯支命马前么。",
+                            "msg": "意主上大千",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 225,
+                            "img": "http://dummyimage.com/48x48/ecf279",
+                            "friends_name": "影重角置效几",
+                            "friends_dcr": "始族西快安处或参新。",
+                            "msg": "对",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 226,
+                            "img": "http://dummyimage.com/48x48/d479f2",
+                            "friends_name": "具张基最路阶",
+                            "friends_dcr": "构被二志些运。",
+                            "msg": "府适连查",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 227,
+                            "img": "http://dummyimage.com/48x48/79f2b0",
+                            "friends_name": "全史员从",
+                            "friends_dcr": "所高那权常养整数想也半率持和向路小真。",
+                            "msg": "以数民东",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 228,
+                            "img": "http://dummyimage.com/48x48/f28d79",
+                            "friends_name": "边眼它况直",
+                            "friends_dcr": "太备里进己适形最层解只研战。",
+                            "msg": "技争",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 229,
+                            "img": "http://dummyimage.com/48x48/7987f2",
+                            "friends_name": "称门用保验米",
+                            "friends_dcr": "圆物响于下证度东线千速。",
+                            "msg": "除与心国界",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 230,
+                            "img": "http://dummyimage.com/48x48/abf279",
+                            "friends_name": "确无体段治题离",
+                            "friends_dcr": "动去形难标农然于线元社听。",
+                            "msg": "却关以便",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 231,
+                            "img": "http://dummyimage.com/48x48/f279ce",
+                            "friends_name": "红法活华",
+                            "friends_dcr": "计便市选价区般面活头北因究回题光接入。",
+                            "msg": "化",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 232,
+                            "img": "http://dummyimage.com/48x48/79f2f2",
+                            "friends_name": "较拉论正",
+                            "friends_dcr": "其精青持片专连地劳统解派历道院米素。",
+                            "msg": "学布号",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 20,
+                    "categories_title": "角立究现流法",
+                    "friends": [
+                        {
+                            "friends_id": 233,
+                            "img": "http://dummyimage.com/48x48/f2cf79",
+                            "friends_name": "民度路见程你过",
+                            "friends_dcr": "色须入受复低打名海林。",
+                            "msg": "明",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 234,
+                            "img": "http://dummyimage.com/48x48/ab79f2",
+                            "friends_name": "状应布验",
+                            "friends_dcr": "认总影小斯影新县拉亲比。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 235,
+                            "img": "http://dummyimage.com/48x48/79f288",
+                            "friends_name": "发导重共组法",
+                            "friends_dcr": "研农图何量气高水。",
+                            "msg": "样政",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 236,
+                            "img": "http://dummyimage.com/48x48/f2798d",
+                            "friends_name": "满位传满科观率条",
+                            "friends_dcr": "养决调你区关放今长有些事感指里。",
+                            "msg": "论",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 237,
+                            "img": "http://dummyimage.com/48x48/79b0f2",
+                            "friends_name": "容土型八",
+                            "friends_dcr": "观且管立复第同解阶它断参边方五有路件。",
+                            "msg": "各社电能",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 238,
+                            "img": "http://dummyimage.com/48x48/d3f279",
+                            "friends_name": "变极干经广明",
+                            "friends_dcr": "处断采土么阶争通土铁具。",
+                            "msg": "号白原别",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 239,
+                            "img": "http://dummyimage.com/48x48/ed79f2",
+                            "friends_name": "什布上红以无",
+                            "friends_dcr": "情九信院更。",
+                            "msg": "信",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 240,
+                            "img": "http://dummyimage.com/48x48/79f2c9",
+                            "friends_name": "问老决取都",
+                            "friends_dcr": "素对正按化量做效律白影总风相于想。",
+                            "msg": "几龙",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 241,
+                            "img": "http://dummyimage.com/48x48/f2a679",
+                            "friends_name": "花至多从次",
+                            "friends_dcr": "酸物它文指专千。",
+                            "msg": "需连由记器",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 242,
+                            "img": "http://dummyimage.com/48x48/8379f2",
+                            "friends_name": "油火资政说明",
+                            "friends_dcr": "十院保回军住意增气包京委越求水许。",
+                            "msg": "关极",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 243,
+                            "img": "http://dummyimage.com/48x48/92f279",
+                            "friends_name": "高战据育色信名",
+                            "friends_dcr": "石治形入日满农且车花程联义观听利转号清传。",
+                            "msg": "期事进",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 244,
+                            "img": "http://dummyimage.com/48x48/f279b5",
+                            "friends_name": "办层打身京看",
+                            "friends_dcr": "件各参进观。",
+                            "msg": "区战小",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 245,
+                            "img": "http://dummyimage.com/48x48/79d8f2",
+                            "friends_name": "明标并中龙观程",
+                            "friends_dcr": "最题精该等任万用都入断型根百九建音联式。",
+                            "msg": "公提据需",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 246,
+                            "img": "http://dummyimage.com/48x48/f2e879",
+                            "friends_name": "带新被别千严者",
+                            "friends_dcr": "议查阶做应并先社处该发空常。",
+                            "msg": "九家",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 247,
+                            "img": "http://dummyimage.com/48x48/c479f2",
+                            "friends_name": "型学打定表法命",
+                            "friends_dcr": "酸适矿道断般律车流活产压千求你问计联展。",
+                            "msg": "天准",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 248,
+                            "img": "http://dummyimage.com/48x48/79f2a1",
+                            "friends_name": "议二制设因",
+                            "friends_dcr": "又给地合示别除道立员化气。",
+                            "msg": "步非",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 249,
+                            "img": "http://dummyimage.com/48x48/f27e79",
+                            "friends_name": "多流只众才两选",
+                            "friends_dcr": "后党收府报展石动圆向才长清方选法北们示。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 250,
+                            "img": "http://dummyimage.com/48x48/7997f2",
+                            "friends_name": "走步对叫系元叫形",
+                            "friends_dcr": "领完响时主于展员向算历。",
+                            "msg": "程各",
+                            "boolean": false
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 21,
+                    "categories_title": "身此按可关",
+                    "friends": [
+                        {
+                            "friends_id": 251,
+                            "img": "http://dummyimage.com/48x48/baf279",
+                            "friends_name": "选今两价",
+                            "friends_dcr": "引原又林军位青放程越造子山交安。",
+                            "msg": "去交对示",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 252,
+                            "img": "http://dummyimage.com/48x48/f279de",
+                            "friends_name": "也气名便备",
+                            "friends_dcr": "利发统不场指思毛治分。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 253,
+                            "img": "http://dummyimage.com/48x48/79f2e3",
+                            "friends_name": "素儿经除单的",
+                            "friends_dcr": "满几论节收高动导因领段严。",
+                            "msg": "标形",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 254,
+                            "img": "http://dummyimage.com/48x48/f2bf79",
+                            "friends_name": "划易土委般",
+                            "friends_dcr": "军引导七准流全安儿将还包正管表带水石。",
+                            "msg": "几及",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 255,
+                            "img": "http://dummyimage.com/48x48/9c79f2",
+                            "friends_name": "划斗快石总周细界",
+                            "friends_dcr": "回行用没图水。",
+                            "msg": "土斯称却因",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 256,
+                            "img": "http://dummyimage.com/48x48/79f279",
+                            "friends_name": "运切采任空",
+                            "friends_dcr": "提动老对其调决养在证料还时。",
+                            "msg": "或",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 257,
+                            "img": "http://dummyimage.com/48x48/f2799c",
+                            "friends_name": "比事政效建红派",
+                            "friends_dcr": "今受到酸结矿山商。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 258,
+                            "img": "http://dummyimage.com/48x48/79bff2",
+                            "friends_name": "标了证因些",
+                            "friends_dcr": "素东接世个王离石进界深研建动只学里长片。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 259,
+                            "img": "http://dummyimage.com/48x48/e3f279",
+                            "friends_name": "指示期政山总实",
+                            "friends_dcr": "例据万利能眼运住图收确大流。",
+                            "msg": "叫口局",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 260,
+                            "img": "http://dummyimage.com/48x48/dd79f2",
+                            "friends_name": "话直适机常",
+                            "friends_dcr": "心本下山员代两军看存身机结于电流。",
+                            "msg": "类多必都群",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 261,
+                            "img": "http://dummyimage.com/48x48/79f2ba",
+                            "friends_name": "照声信图活火位",
+                            "friends_dcr": "万接取列更参但温话。",
+                            "msg": "文列加",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 262,
+                            "img": "http://dummyimage.com/48x48/f29779",
+                            "friends_name": "例度却马么",
+                            "friends_dcr": "目同人从气识元位济。",
+                            "msg": "程老",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 263,
+                            "img": "http://dummyimage.com/48x48/797ef2",
+                            "friends_name": "共联何效集济边体",
+                            "friends_dcr": "每必往确火化派。",
+                            "msg": "话下统",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 264,
+                            "img": "http://dummyimage.com/48x48/a1f279",
+                            "friends_name": "米着观定关",
+                            "friends_dcr": "等以群再是论立导。",
+                            "msg": "起没叫",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 265,
+                            "img": "http://dummyimage.com/48x48/f279c5",
+                            "friends_name": "品加适情政",
+                            "friends_dcr": "气收什放火行小年展明日由工增。",
+                            "msg": "因",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 266,
+                            "img": "http://dummyimage.com/48x48/79e8f2",
+                            "friends_name": "两据论真其",
+                            "friends_dcr": "平你便际你选圆种易压打议采速成向织教。",
+                            "msg": "权图主北",
+                            "boolean": true
+                        }
+                    ]
+                },
+                {
+                    "categories_id": 22,
+                    "categories_title": "片建万表增青",
+                    "friends": [
+                        {
+                            "friends_id": 267,
+                            "img": "http://dummyimage.com/48x48/f2d879",
+                            "friends_name": "步公军更五",
+                            "friends_dcr": "论格属养半级存角将手有名地南复解。",
+                            "msg": "天千府主",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 268,
+                            "img": "http://dummyimage.com/48x48/b579f2",
+                            "friends_name": "酸热张给需",
+                            "friends_dcr": "史共路话等者例已持。",
+                            "msg": "于解从无",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 269,
+                            "img": "http://dummyimage.com/48x48/79f292",
+                            "friends_name": "总布种太质新的",
+                            "friends_dcr": "据新他万算白做它。",
+                            "msg": "",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 270,
+                            "img": "http://dummyimage.com/48x48/f27983",
+                            "friends_name": "特张物队动组布",
+                            "friends_dcr": "农题主满管回。",
+                            "msg": "打族",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 271,
+                            "img": "http://dummyimage.com/48x48/79a6f2",
+                            "friends_name": "劳题文消族组",
+                            "friends_dcr": "为离专知办何。",
+                            "msg": "多石维",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 272,
+                            "img": "http://dummyimage.com/48x48/caf279",
+                            "friends_name": "候都整性相江己",
+                            "friends_dcr": "族部调劳构些难器就本引科并受白查识效为。",
+                            "msg": "影件管计期",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 273,
+                            "img": "http://dummyimage.com/48x48/f279ed",
+                            "friends_name": "快根本证定品油",
+                            "friends_dcr": "进在没意在在须红特空程同。",
+                            "msg": "省力",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 274,
+                            "img": "http://dummyimage.com/48x48/79f2d3",
+                            "friends_name": "维花较人经华",
+                            "friends_dcr": "界放办革素中维查万。",
+                            "msg": "油究米管法",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 275,
+                            "img": "http://dummyimage.com/48x48/f2b079",
+                            "friends_name": "日复者他线难",
+                            "friends_dcr": "们命装族近王大流务工少红六济切它。",
+                            "msg": "主",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 276,
+                            "img": "http://dummyimage.com/48x48/8c79f2",
+                            "friends_name": "高群得出",
+                            "friends_dcr": "调道与论米打比可万手。",
+                            "msg": "准越思新",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 277,
+                            "img": "http://dummyimage.com/48x48/88f279",
+                            "friends_name": "学立真山应则目",
+                            "friends_dcr": "生问入是叫安。",
+                            "msg": "系的酸斯",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 278,
+                            "img": "http://dummyimage.com/48x48/f279ac",
+                            "friends_name": "法又展说复名何管",
+                            "friends_dcr": "选小证包后计其志强么律物六资战速。",
+                            "msg": "等",
+                            "boolean": true
+                        },
+                        {
+                            "friends_id": 279,
+                            "img": "http://dummyimage.com/48x48/79cff2",
+                            "friends_name": "群特合象展",
+                            "friends_dcr": "世事手再林造育合斗命积化商酸段。",
+                            "msg": "",
+                            "boolean": false
+                        },
+                        {
+                            "friends_id": 280,
+                            "img": "http://dummyimage.com/48x48/f2f179",
+                            "friends_name": "高风所际就最认",
+                            "friends_dcr": "身起思系及始总快后通气约积济理节收。",
+                            "msg": "电",
+                            "boolean": true
+                        }
+                    ]
+                }
+            ],
+            "groups_categories": [
+                {
+                    "groups_id": 18,
+                    "groups_title": "度做维工较",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/ce79f2",
+                            "group_id": 105,
+                            "group_title": "属二界领才世没"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2ab",
+                            "group_id": 106,
+                            "group_title": "地越建化眼机因"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f28779",
+                            "group_id": 107,
+                            "group_title": "建写己持提"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/798df2",
+                            "group_id": 108,
+                            "group_title": "快己组装以"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/b1f279",
+                            "group_id": 109,
+                            "group_title": "通许南示这近难"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279d4",
+                            "group_id": 110,
+                            "group_title": "基九定将本风取导"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 19,
+                    "groups_title": "形信同度有",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2ec",
+                            "group_id": 111,
+                            "group_title": "引声七指列市"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2c979",
+                            "group_id": 112,
+                            "group_title": "连于于养去反必什"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/a579f2",
+                            "group_id": 113,
+                            "group_title": "教现连今叫八运"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f282",
+                            "group_id": 114,
+                            "group_title": "例存一导命律"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f27993",
+                            "group_id": 115,
+                            "group_title": "总着格红量"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79b6f2",
+                            "group_id": 116,
+                            "group_title": "口并提思事强"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d9f279",
+                            "group_id": 117,
+                            "group_title": "半去快身它住几"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 20,
+                    "groups_title": "段次团完",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/e779f2",
+                            "group_id": 118,
+                            "group_title": "研声直山"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2c4",
+                            "group_id": 119,
+                            "group_title": "打团才先间"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2a079",
+                            "group_id": 120,
+                            "group_title": "新京共采十文至应"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 21,
+                    "groups_title": "亲拉常习运",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/7d79f2",
+                            "group_id": 121,
+                            "group_title": "八要且半经通再满"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/98f279",
+                            "group_id": 122,
+                            "group_title": "根看适文却"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279bb",
+                            "group_id": 123,
+                            "group_title": "习会认口风门"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79def2",
+                            "group_id": 124,
+                            "group_title": "志么矿儿义话质身"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 22,
+                    "groups_title": "低高断响区作度",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/f2e279",
+                            "group_id": 125,
+                            "group_title": "还设或能易史"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/be79f2",
+                            "group_id": 126,
+                            "group_title": "多作活口光"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f29b",
+                            "group_id": 127,
+                            "group_title": "分流火还龙"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2797a",
+                            "group_id": 128,
+                            "group_title": "那科造它院者种"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/799df2",
+                            "group_id": 129,
+                            "group_title": "实存是与道"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/c0f279",
+                            "group_id": 130,
+                            "group_title": "作处红其许严设"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279e4",
+                            "group_id": 131,
+                            "group_title": "从间程般养点布"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 23,
+                    "groups_title": "着观机接样战",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2dd",
+                            "group_id": 132,
+                            "group_title": "适该斯干类千况"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f2b979",
+                            "group_id": 133,
+                            "group_title": "任务气至较"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/9679f2",
+                            "group_id": 134,
+                            "group_title": "越水拉参发安"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7ff279",
+                            "group_id": 135,
+                            "group_title": "争学清片交严"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f279a2",
+                            "group_id": 136,
+                            "group_title": "按展采精清其持"
+                        }
+                    ]
+                },
+                {
+                    "groups_id": 24,
+                    "groups_title": "知月体引样",
+                    "groups": [
+                        {
+                            "img": "http://dummyimage.com/48x48/79c5f2",
+                            "group_id": 137,
+                            "group_title": "每通值眼满"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/e9f279",
+                            "group_id": 138,
+                            "group_title": "于列习厂色"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/d779f2",
+                            "group_id": 139,
+                            "group_title": "论需红她各进车"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/79f2b4",
+                            "group_id": 140,
+                            "group_title": "引太新断广影"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/f29179",
+                            "group_id": 141,
+                            "group_title": "得传平不较自"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/7984f2",
+                            "group_id": 142,
+                            "group_title": "家干理工但管"
+                        },
+                        {
+                            "img": "http://dummyimage.com/48x48/a7f279",
+                            "group_id": 143,
+                            "group_title": "极有国维"
+                        }
+                    ]
+                }
+            ],
+            "groups_chat": [
+                {
+                    "groups_chat_id": 17,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f279cb",
+                    "groups_chat_name": "省好选取到太生史京光只指更算"
+                },
+                {
+                    "groups_chat_id": 18,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79eef2",
+                    "groups_chat_name": "外际务话员华较问认老命已带片业"
+                },
+                {
+                    "groups_chat_id": 19,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f2d279",
+                    "groups_chat_name": "东数文三王亲生对般历车值管江方拉"
+                },
+                {
+                    "groups_chat_id": 20,
+                    "groups_chat_img": "http://dummyimage.com/48x48/af79f2",
+                    "groups_chat_name": "质二成平好过业由变资"
+                },
+                {
+                    "groups_chat_id": 21,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79f28c",
+                    "groups_chat_name": "广听将写正志拉四较往战须加一"
+                },
+                {
+                    "groups_chat_id": 22,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f27989",
+                    "groups_chat_name": "白参正也能几党较好议己技济"
+                },
+                {
+                    "groups_chat_id": 23,
+                    "groups_chat_img": "http://dummyimage.com/48x48/79acf2",
+                    "groups_chat_name": "管部许物有进决却中为联近可"
+                },
+                {
+                    "groups_chat_id": 24,
+                    "groups_chat_img": "http://dummyimage.com/48x48/d0f279",
+                    "groups_chat_name": "约计据外西完消想张量来"
+                },
+                {
+                    "groups_chat_id": 25,
+                    "groups_chat_img": "http://dummyimage.com/48x48/f079f2",
+                    "groups_chat_name": "队农边九记斗即并结系家中装被按红"
+                }
+            ],
+            "selectedFriends": []
+        }
+    ]
+}
