@@ -16,7 +16,6 @@ const CHAT = {
   message () { // username
     this.socket.on('receivePrivateMessage', function (obj) {
       CHAT.msgArr.push(obj)
-      console.log(1)
       console.log('CHAT.msgArr', obj)
     })
   },

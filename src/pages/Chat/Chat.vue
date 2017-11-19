@@ -17,7 +17,7 @@
       <div class="insert">
         <input type="text" class="msg" v-model="value"> 
         <button disabled v-if="!show()">发送</button>
-        <button class="active" v-else @click="submit(e)">发送</button>        
+        <button class="active" v-else @click="submit()">发送</button>        
       </div>
       <div class="fuc">
         <span class="talk"></span>
@@ -36,6 +36,9 @@
 /* eslint-disable */
   import Chat from '../../Client/client.js'
 	export default {
+    mounted () {
+      Chat.message()
+    },
 		props: ['name', 'state'],
 		data () {
 			return {
@@ -58,14 +61,13 @@
 					return '离线'
 				}
 			},
-			submit (e) {
+			submit () {
         let value = this.value
         let selectedFriends = this.$store.state.selectedFriends.filter((item, index) => {
 					return this.$store.state.activeSelected === item
 				})[0]
         //向服务器发送消息
         Chat.submit({msg: this.value, userId: '2'})
-        Chat.message()
         this.value = ''
       }
 		},
